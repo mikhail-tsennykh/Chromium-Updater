@@ -1,0 +1,15 @@
+<settings type="Chromium_Updater_Settings">
+  
+  <!-- Set Chromium archive name -->
+  <archive_name>chrome-win32</archive_name>
+  
+  <!-- Set Chromium archive extension -->
+  <archive_ext>.zip</archive_ext>
+  
+  <!-- Chromium archive temp download path (default: empty, will use user's home folder) -->
+  <download_path></download_path>
+  
+  <!-- Chromium install path (contents of the archive will be extracted there) -->
+  <install_path>C:\Programs</install_path>
+  
+</settings>

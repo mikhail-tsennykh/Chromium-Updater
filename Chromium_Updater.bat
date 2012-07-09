@@ -1,0 +1,1 @@
+powershell ./Chromium_Updater.ps1
