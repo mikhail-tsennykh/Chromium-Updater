@@ -1,4 +1,4 @@
-# Chromium Updater v.1.0 (Beta)
+# Chromium Updater v.1.0
 
 By [Mikhail Tsennykh, 2012] (http://www.codeproject.com/Members/Mikhail-T)
 
