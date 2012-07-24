@@ -25,4 +25,10 @@ enabled on your system. Do this by running this command in PowerShell:
 
 If you don't have PowerShell, download and install it from here: http://www.microsoft.com/PowerShell.
 
+## More Information
+
+For more details, please read my
+[CodeProject Article] (http://www.codeproject.com/Articles/415669/Chromium-Browser-automated-install-update-via-Powe)
+about this script.
+
 #### And that's all, Folks!
